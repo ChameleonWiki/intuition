@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dani"
+			"Dani",
+			"Tacsipacsi"
 		]
 	},
 	"enter-details": "Részletek megadása",
-	"introduction": "Add meg a sablon nevét (bocsi, egyelőre csak Wikipédiák esetén működik), majd kattints a Menj gombra. Ilyen egyszerű. Van némi gyorsítótárazás (az eredmények eltárolása), de ez sajnos az eszköz és az eszköz készítőjének hatáskörén kívülre esik.",
+	"introduction": "Add meg a sablon nevét (egyelőre csak Wikipédiák esetén működik), majd kattints a Menj gombra. Ilyen egyszerű. Van némi gyorsítótárazás (az eredmények eltárolása), de ez sajnos az eszköz és készítőjének hatáskörén kívülre esik.",
 	"language-label": "Nyelv",
 	"namespace-label": "Névtér",
 	"pagename-label": "Lap neve (névtér nélkül)",

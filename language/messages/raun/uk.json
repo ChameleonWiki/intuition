@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Alex Blokha",
+			"Lxlalexlxl"
 		]
 	},
 	"close": "Закрити",
@@ -51,10 +53,12 @@
 	"bot": "бот",
 	"editor": "редактор",
 	"admin": "адміністратор",
+	"help_p1": "Raun — це засіб для стеження за останніми змінами в проектах Фонду Вікімедіа в реальному часі. Raun періодично підвантажує останні зміни і автоматично показує їх вам.",
 	"help_legend": "Легенда:",
 	"color": "Колір",
 	"about": "Про",
 	"information": "Інформація",
 	"credit": "Кредит",
+	"about_github": "Вихідний код доступний на $1",
 	"send_feedback": "Надіслати відгук"
 }
